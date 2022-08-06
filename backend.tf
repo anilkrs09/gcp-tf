@@ -3,7 +3,7 @@ terraform {
     organization = "terraform-anil"
 
     workspaces {
-      name = "terraform-course"
+      name = "gcp-tf"
     }
   }
 }
